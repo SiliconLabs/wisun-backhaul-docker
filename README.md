@@ -1,5 +1,7 @@
-Wi-SUN Border router
+Wi-SUN Border router (Deprecated)
 ====================
+
+Deprecated. Refer to the [wisun-br-linux-docker repository](https://github.com/SiliconLabs/wisun-br-linux-docker).
 
 A Wi-SUN Border Router (BR) allows to connect a Wi-SUN network to internet. The
 WinSun BR firmware for EFR32 is able to make most of this job. However, EFR32
